@@ -1,0 +1,263 @@
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\plc프로그램.exe.config
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\plc프로그램.exe
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\plc프로그램.pdb
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.AssemblyReference.cache
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form1.resources
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form2.resources
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Properties.Resources.resources
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.GenerateResource.cache
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CoreCompileInputs.cache
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.exe
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.pdb
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\Interop.ACTPCUSBLib.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.ResolveComReference.cache
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form3.resources
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form4.resources
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form5.resources
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\MySql.Data.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\Zstandard.Net.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Memory.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Buffers.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\MySql.Data.xml
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\kht\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CopyComplete
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\plc프로그램.exe.config
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\plc프로그램.exe
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\plc프로그램.pdb
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\ZstdNet.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\Interop.ACTPCUSBLib.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.ResolveComReference.cache
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form2.resources
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form1.resources
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form3.resources
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Properties.Resources.resources
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CopyComplete
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.exe
+C:\Users\USER\source\repos\plc프로그램\plc프로그램\obj\Debug\plc프로그램.pdb
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\plc프로그램.exe.config
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\plc프로그램.exe
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\plc프로그램.pdb
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\MySql.Data.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Buffers.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Memory.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\ZstdNet.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\Google.Protobuf.pdb
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\Google.Protobuf.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\MySql.Data.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Buffers.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Memory.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.AssemblyReference.cache
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\Interop.ACTPCUSBLib.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.ResolveComReference.cache
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form2.resources
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form1.resources
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form3.resources
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Properties.Resources.resources
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.GenerateResource.cache
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CoreCompileInputs.cache
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CopyComplete
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.exe
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.pdb
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form4.resources
+C:\Users\kht\Desktop\plc프로그램\plc프로그램\obj\Debug\plc프로그램.Form5.resources
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\plc프로그램.exe.config
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\plc프로그램.exe
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\plc프로그램.pdb
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Data.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Drawing.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Printing.v22.1.Core.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Utils.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\Google.Protobuf.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\MetroFramework.Design.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\MetroFramework.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\MetroFramework.Fonts.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\MySql.Data.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Buffers.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Memory.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Numerics.Vectors.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\ZstdNet.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Data.v22.1.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Printing.v22.1.Core.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Utils.v22.1.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\Google.Protobuf.pdb
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\Google.Protobuf.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\MySql.Data.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Buffers.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Memory.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Numerics.Vectors.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Release\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\plc프로그램.exe.config
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\plc프로그램.exe
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\plc프로그램.pdb
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\Google.Protobuf.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\MetroFramework.Design.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\MetroFramework.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\MySql.Data.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Buffers.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Memory.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\ZstdNet.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\Google.Protobuf.pdb
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\Google.Protobuf.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\MySql.Data.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Buffers.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Memory.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\Interop.ACTPCUSBLib.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.ResolveComReference.cache
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.Form2.resources
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.Form1.resources
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.Form4.resources
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.Form5.resources
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.Properties.Resources.resources
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.GenerateResource.cache
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CoreCompileInputs.cache
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.CopyComplete
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.exe
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.pdb
+C:\Users\kht\Desktop\캡스톤디자인2\프로그램자료\캡스톤디자인2 프로그램\plc프로그램\obj\Debug\plc프로그램.csproj.AssemblyReference.cache
